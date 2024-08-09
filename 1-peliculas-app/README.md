@@ -1,4 +1,5 @@
 # Películas React + Vite
+![peliculas](https://github.com/user-attachments/assets/80405d6c-d447-4084-a0bd-50531c1951fe)
 
 ## Descripción del Proyecto
 
